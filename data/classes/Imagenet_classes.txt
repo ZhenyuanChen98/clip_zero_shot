@@ -1,0 +1,46 @@
+aeroplane
+apple
+bed
+backpack
+banana
+baseball
+bear
+bench
+bicycle
+bird
+tie
+bowl
+bus
+car
+chair
+keyboard
+mouse
+cup
+clock
+dog
+cat
+elephant
+hair drier
+horse
+hot dog
+teddy bear
+laptop
+microwave
+motorbike
+orange
+person
+sports ball
+pizza
+racket
+refrigerator
+sheep
+skis
+sofa
+table
+tie
+toaster
+traffic light
+train
+tvmonitor
+bottle
+zebra
