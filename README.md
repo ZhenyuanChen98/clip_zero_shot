@@ -20,7 +20,8 @@ pip install -r requirements.txt
 # 完成
 ```
 ## 文件处理
-解压百度网盘：
+解压百度网盘：链接:https://pan.baidu.com/s/1tWmz-TokFwHlhwFg0WLDIQ 提取码:3425
+
 将A榜数据集、Dassl.pytorch-master、data复制到git目录。
 
 ## 数据
