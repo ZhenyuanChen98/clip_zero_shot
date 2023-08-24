@@ -33,7 +33,6 @@ python ./data/generate_datasets/data_generate.py
 ## 训练
 
 ``` bash
-cd 
 bash scripts/main.sh 
 ```
 生成分类得分文件 `impreds.json`
